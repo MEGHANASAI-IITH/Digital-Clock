@@ -1,0 +1,7 @@
+set_io data(7) IO_30
+set_io data(6) IO_29
+set_io data(5) IO_28
+set_io data(4) IO_27
+set_io en IO_26
+set_io rs IO_25
+
